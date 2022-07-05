@@ -11,6 +11,10 @@ h1 {
     color: orange;
 }
 
+span {
+    color: orange;
+}
+
 .fixible-container {
     display: flex;
     margin-bottom: 100px;
